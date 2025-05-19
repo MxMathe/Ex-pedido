@@ -15,22 +15,32 @@ Este é um sistema de pedidos de lanches implementado em Java, com foco no uso p
 ## 🗂️ Estrutura de Pastas
 
 src/
+
 ├── lanches/
+
 │ ├── Lanche.java
+
 │ ├── LancheFactory.java
+
 │ ├── XBurger.java
+
 │ └── XSalada.java
+
 ├── pagamentos/
+
 │ ├── PagamentoStrategy.java
+
 │ ├── PagamentoCartao.java
+
 │ ├── PagamentoPIX.java
+
 │ └── PagamentoDinheiro.java
+
 ├── Pedido.java
+
 └── Main.java
 
-yaml
-Copiar
-Editar
+
 
 ---
 
